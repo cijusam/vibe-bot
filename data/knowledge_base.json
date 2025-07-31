@@ -1,0 +1,46 @@
+{
+  "conditions": [
+    {
+      "name": "Common Cold",
+      "symptoms": ["runny nose", "sore throat", "cough", "congestion", "sneezing"],
+      "prognosis": "The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.",
+      "service_suggestion": "Rest and drink plenty of fluids. Over-the-counter medications can help ease symptoms. If symptoms persist for more than a week, consult a general physician."
+    },
+    {
+      "name": "Influenza (Flu)",
+      "symptoms": ["fever", "cough", "sore throat", "runny or stuffy nose", "muscle or body aches", "headaches", "fatigue"],
+      "prognosis": "Influenza is a viral infection that attacks your respiratory system — your nose, throat and lungs. Influenza is commonly called the flu, but it's not the same as stomach 'flu' viruses that cause diarrhea and vomiting.",
+      "service_suggestion": "Rest and stay hydrated. Antiviral drugs may be prescribed by a doctor. It is advisable to see a doctor, especially for high-risk groups."
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["headache", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound"],
+      "prognosis": "A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.",
+      "service_suggestion": "Rest in a quiet, dark room. Over-the-counter pain relievers can be effective. For frequent migraines, a neurologist can provide a more targeted treatment plan."
+    },
+    {
+      "name": "Gastroenteritis (Stomach Flu)",
+      "symptoms": ["diarrhea", "vomiting", "stomach pain", "fever", "headache", "nausea"],
+      "prognosis": "Gastroenteritis is an inflammation of the lining of the intestines caused by a virus, bacteria, or parasites. It's often called the stomach flu, but it's not related to influenza.",
+      "service_suggestion": "Drink plenty of fluids to avoid dehydration. The BRAT diet (bananas, rice, applesauce, toast) can help. If you have signs of severe dehydration, see a doctor immediately."
+    },
+    {
+      "name": "Allergic Rhinitis (Hay Fever)",
+      "symptoms": ["sneezing", "runny or stuffy nose", "itchy or watery eyes", "itchy throat"],
+      "prognosis": "Allergic rhinitis, also known as hay fever, is an allergic response to specific allergens. Pollen is the most common allergen in seasonal allergic rhinitis. These allergic reactions result in coughing, sneezing, and a host of other symptoms.",
+      "service_suggestion": "Antihistamines and nasal sprays are effective treatments. Identifying and avoiding allergens is crucial. An allergist can perform tests to identify specific triggers."
+    },
+    {
+      "name": "Pink Eye (Conjunctivitis)",
+      "symptoms": ["redness in eye", "itchy eye", "gritty feeling in eye", "discharge from eye", "tearing"],
+      "prognosis": "Conjunctivitis is an inflammation or infection of the transparent membrane (conjunctiva) that lines your eyelid and covers the white part of your eyeball. It's a common eye condition that can be caused by bacteria, viruses, or allergies.",
+      "service_suggestion": "Bacterial conjunctivitis is treated with antibiotic eye drops. Viral conjunctivitis usually resolves on its own. Allergic conjunctivitis can be treated with anti-allergy medications. It is advisable to consult an ophthalmologist."
+    },
+    {
+      "name": "Urinary Tract Infection (UTI)",
+      "symptoms": ["painful urination", "frequent urge to urinate", "cloudy or strong-smelling urine", "pelvic pain"],
+      "prognosis": "A urinary tract infection (UTI) is an infection in any part of your urinary system — your kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra.",
+      "service_suggestion": "Antibiotics are the primary treatment for UTIs. Drinking plenty of water can help flush out bacteria. If symptoms are severe or recurrent, a urologist should be consulted."
+    }
+  ]
+} 
